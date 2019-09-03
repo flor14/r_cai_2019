@@ -1,6 +1,7 @@
 # Introducción al lenguaje R
-#### CAI 2019 - 48 JAIIO
-17 de septiembre de 2019 - Universidad Nacional de Salta
+
+17 de septiembre de 2019 - Universidad Nacional de Salta  
+
 [Tutorial de las 48 JAIIO](http://48jaiio.sadio.org.ar/Simposios/Tutoriales)
 
 ----------
