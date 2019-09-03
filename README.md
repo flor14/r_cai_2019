@@ -1,6 +1,6 @@
 # Introducción al lenguaje R
-#### CAi 2019 - 48 JAIIO
-17 de septiembre de 2019 - 
+#### CAI 2019 - 48 JAIIO
+17 de septiembre de 2019 - Universidad Nacional de Salta
 [Tutorial de las 48 JAIIO](http://48jaiio.sadio.org.ar/Simposios/Tutoriales)
 
 ----------
@@ -28,7 +28,7 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
  
 ## Cronograma
 
-<img src="https://github.com/flor14/r_cai_2019/blob/master/flyer.png?raw=TRUE">  
+<img src="https://github.com/flor14/r_cai_2019/blob/master/flyer.jpg?raw=TRUE">  
 
 ## Material del curso
 #### ¿Cómo instalar R y RStudio? 
