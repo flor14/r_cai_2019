@@ -1,7 +1,7 @@
-# R para análisis científicos reproducibles
+# Introducción al lenguaje R
 #### Elige tu propio camino
-9 a 15.30 hs. Martes 6 de agosto de 2019 - 
-Auditorio del Jardín Botánico del CNIA
+17 de septiembre de 2019 - 
+[Tutorial de las 48 JAIIO](http://48jaiio.sadio.org.ar/Simposios/Tutoriales)
 
 ----------
 
@@ -28,7 +28,7 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
  
 ## Cronograma
 
-<img src="https://github.com/flor14/r_inta/blob/master/mapaderuta.png?raw=TRUE">  
+<img src="https://github.com/flor14/r_cai_2019/blob/master/flyer.png?raw=TRUE">  
 
 ## Material del curso
 #### ¿Cómo instalar R y RStudio? 
