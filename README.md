@@ -12,22 +12,6 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 <a href="https://twitter.com/cantoflor_87" class="twitter-follow-button" data-show-count="false">Twitter</a>
 
 ----------
- El lenguaje de programación R se ha vuelto popular. La oferta de cursos ha aumentado exponencialmente a la par de la cantidad de paquetes y recursos disponibles. Entonces nos preguntamos: 
-
-> ¿Cuán necesario es adoptar R en nuestro flujo de trabajo?
-
-> ¿Existen usos de R no relacionados con la estadística?
- 
-> ¿Necesito formación especial para comenzar a emplearlo?
-
- Para responder estas preguntas te esperamos en el Salón de Actos del Jardín Botánico el 6 de agosto a las 9 a 15:30 hs para compartir una introducción a R para el análisis de datos reproducible.
-
- En este curso de una jornada presentaremos algunos conceptos básicos del lenguaje y hablaremos sobre organización, limpieza y visualización de datos así como de la reproducibilidad de nuestro trabajo. 
-
- También nos parece una buena oportunidad para conocer y conectar la comunidad de usuarios de R del CNIA. 
- 
-## Cronograma
-
 <img src="https://github.com/flor14/r_cai_2019/blob/master/flyer.jpg?raw=TRUE">  
 
 ## Material del curso
