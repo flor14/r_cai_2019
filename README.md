@@ -1,5 +1,5 @@
 # Introducción al lenguaje R
-#### Elige tu propio camino
+#### CAi 2019 - 48 JAIIO
 17 de septiembre de 2019 - 
 [Tutorial de las 48 JAIIO](http://48jaiio.sadio.org.ar/Simposios/Tutoriales)
 
@@ -100,7 +100,7 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 ## Encuesta final
 
 Te pedimos si pudieses contestar esta breve encuesta como devolución del curso. ¡Gracias por asistir!
-[Encuesta final](https://forms.gle/LAhPfZjUyvV38BMv9)
+[Encuesta final]()
 
 
 
