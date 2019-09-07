@@ -66,8 +66,8 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 * [Git for Humans](https://speakerdeck.com/alicebartlett/git-for-humans)
 
 #### Sitios en español
-* [Ciencia de datos para curiosos - Martín Montané](https://bookdown.org/martinmontaneb/CienciaDeDatos/
-* [Fundamentos de la Programación Estadística y Data Science en R - Versión tidyverse - German Rosati] (https://github.com/gefero/tidy_fund_prog_r)
+* [Ciencia de datos para curiosos - Martín Montané](https://bookdown.org/martinmontaneb/CienciaDeDatos/)
+* [Fundamentos de la Programación Estadística y Data Science en R - Versión tidyverse - German Rosati](https://github.com/gefero/tidy_fund_prog_r)
 * [Ciencia de datos para gente sociable - Vazquez Brust](https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/)
 * [El arte de programar en R - Julio Sergio Santana & Efraín Mateos Farfán [español]](http://bit.ly/2N2Y1Y8)
 * [Introducción a tidyr: Datos ordenados en R (Rpubs) [español]](http://bit.ly/2AaWV9T)
