@@ -21,11 +21,13 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 
 9 hs
 
-- Introducción y tidyverse. Trabajar con Proyectos.
+- Introducción y tidyverse. 
+- Trabajar con Proyectos.
 
 10.30 - 10 hs. (Intervalo)
 
-- Gráficos. Ggplot2 y RMarkdown. Sacar un DOI a un dataset.
+- Gráficos. Ggplot2 y RMarkdown.
+- Sacar un DOI a un dataset.
 
 13 hs
 
