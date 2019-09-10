@@ -15,6 +15,21 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 ----------
 <img src="https://github.com/flor14/r_cai_2019/blob/master/flyer.jpg?raw=TRUE">  
 
+
+----------
+## Cronograma
+
+9 hs
+
+- Introducción y tidyverse. Trabajar con Proyectos.
+
+10.30 - 10 hs. (Intervalo)
+
+- Gráficos. Ggplot2 y RMarkdown. Sacar un DOI a un dataset.
+
+13 hs
+
+----------
 ## Material del curso
 #### ¿Cómo instalar R y RStudio? 
  Para una mejor experiencia sugerimos acercarse con una computadora personal con R y R-Studio instalados (pero esto no es excluyente). Información en este [Link](https://github.com/pachamaltese/tutoriales/blob/master/2019-04-24-instalar-r.md) para distintos sistemas operativos.
