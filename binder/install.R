@@ -1,0 +1,5 @@
+install.packages("tidyverse")
+install.packages("plotly")
+install.packages("gapminder")
+install.packages("gganimate")
+install.packages("gifski")
