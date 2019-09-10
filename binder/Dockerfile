@@ -1,4 +1,3 @@
-  
 ## Use a tag instead of "latest" for reproducibility
 FROM rocker/binder:3.5.2
 
