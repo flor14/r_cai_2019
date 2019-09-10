@@ -22,6 +22,9 @@ ggplot2::
 # - importar archivos de Excel con R (como codigo). Ver panel
 # code preview de la pesta?a que aparece cuando quiero importar
 # desde RStudio
+
+gapminder <- read_csv("datos/gapminder.csv")  
+
 # ventaja de escribir el codigo: queda registrada la ubicacion 
 # del archivo puedo subir muchos archivos
   
