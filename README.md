@@ -38,7 +38,7 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
  
 #### Filminas
 
-[Filminas parte 1](https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf.pdf?raw=TRUE) 
+[Filminas parte 1](https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf?raw=TRUE) 
 
 [Filminas parte 2](https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf?raw=TRUE) 
 
