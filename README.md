@@ -38,15 +38,20 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
  
 #### Filminas
 
-[parte 1](https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf.pdf?raw=TRUE) r y rstudio - paquetes - tidyverse - importar archivos
+[parte 1](https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf.pdf?raw=TRUE) 
 
-[parte 2](https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf?raw=TRUE) ordenamiento de datos
+[parte 2](https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf?raw=TRUE) 
 
 [Live coding 1 - RStudio y Proyectos](https://github.com/flor14/r_cai_2019/blob/curso/r_rstudio_proyectos_CAI.R)
+
 [Live coding 2 - Pipes y Tidyverse](https://github.com/flor14/r_cai_2019/blob/curso/df_pipes_tidyverse_CAI.R)
+
 [Live coding 3 - Gráficos 1](https://github.com/flor14/r_cai_2019/blob/curso/Graficos_Parte1_CAI.R)
+
 [Live coding 4 - Gráficos 2](https://github.com/flor14/r_cai_2019/blob/curso/Graficos_Parte2_CAI.R)
+
 [Live coding 5 - Gráficos 3](https://github.com/flor14/r_cai_2019/blob/curso/Graficos_Parte3.R)
+
 [Live coding 6 - Mapas y plotly](https://github.com/flor14/r_cai_2019/blob/curso/muestra_mapas_plotly_CAI.R)
 
 Parte práctica [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/flor14/r_cai_2019.git/curso)
