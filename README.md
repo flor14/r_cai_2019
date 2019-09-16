@@ -34,17 +34,20 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 ----------
 ## Material del curso
 #### ¿Cómo instalar R y RStudio? 
- Para una mejor experiencia sugerimos acercarse con una computadora personal con R y R-Studio instalados (pero esto no es excluyente). Información en este [Link](https://github.com/pachamaltese/tutoriales/blob/master/2019-04-24-instalar-r.md) para distintos sistemas operativos.
+ Para una mejor experiencia sugerimos acercarse con una computadora personal con R y RStudio instalados (pero esto no es excluyente). Información en este [Link](https://github.com/pachamaltese/tutoriales/blob/master/2019-04-24-instalar-r.md) para distintos sistemas operativos.
  
 #### Filminas
 
-[parte 1](https://github.com/flor14/r_inta/blob/master/CursoR_parte1_INTA_2019.pdf?raw=TRUE) r y rstudio - paquetes - tidyverse - importar archivos
+[parte 1](https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf.pdf?raw=TRUE) r y rstudio - paquetes - tidyverse - importar archivos
 
-[Código parte 1](https://github.com/flor14/r_inta/blob/master/R_INTA_LC1_2019.R)
+[parte 2](https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf?raw=TRUE) ordenamiento de datos
 
-[parte 2](https://github.com/flor14/r_inta/blob/master/CursoR_parte2_INTA_2019.pdf?raw=TRUE) ordenamiento de datos
-
-[Código parte 2](https://github.com/flor14/r_inta/blob/master/R_inta_LC2_2019.R)
+[Live coding 1 - RStudio y Proyectos](https://github.com/flor14/r_cai_2019/blob/curso/r_rstudio_proyectos_CAI.R)
+[Live coding 2 - Pipes y Tidyverse](https://github.com/flor14/r_cai_2019/blob/curso/df_pipes_tidyverse_CAI.R)
+[Live coding 3 - Gráficos 1](https://github.com/flor14/r_cai_2019/blob/curso/Graficos_Parte1_CAI.R)
+[Live coding 4 - Gráficos 2](https://github.com/flor14/r_cai_2019/blob/curso/Graficos_Parte2_CAI.R)
+[Live coding 5 - Gráficos 3](https://github.com/flor14/r_cai_2019/blob/curso/Graficos_Parte3.R)
+[Live coding 6 - Mapas y plotly](https://github.com/flor14/r_cai_2019/blob/curso/muestra_mapas_plotly_CAI.R)
 
 Parte práctica [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/flor14/r_cai_2019.git/curso)
 
