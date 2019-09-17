@@ -40,7 +40,7 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 
 [Filminas parte 1](https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf?raw=TRUE) 
 
-[Filminas parte 2](https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf?raw=TRUE) 
+[Filminas parte 2](https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte2_CAI_2019_yani.pdf?raw=TRUE) 
 
 [Live coding 1 - RStudio y Proyectos](https://github.com/flor14/r_cai_2019/blob/curso/r_rstudio_proyectos_CAI.R)
 
