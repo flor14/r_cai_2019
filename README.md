@@ -54,6 +54,8 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 
 [Live coding 6 - Mapas y plotly](https://github.com/flor14/r_cai_2019/blob/curso/muestra_mapas_plotly_CAI.R)
 
+[Base de datos](https://github.com/flor14/r_cai_2019/blob/curso/gapminder.csv)
+
 Parte práctica [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/flor14/r_cai_2019/curso?urlpath=rstudio)
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /> Las filminas y código asociado se encuentran bajo licencia <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
